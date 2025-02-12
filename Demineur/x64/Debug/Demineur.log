@@ -1,0 +1,3 @@
+﻿  Demineur.cpp
+C:\Users\Nicolas\Desktop\Demineur Console\Demineur\Demineur.cpp(243,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Demineur.vcxproj -> C:\Users\Nicolas\Desktop\Demineur Console\Demineur\x64\Debug\Demineur.exe
